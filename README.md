@@ -1,4 +1,14 @@
 # scripts
+**xrate.sh**
+
+change keyboard press replucate time 
+
+add persian keyboard layout
+
+**Windscribe.sh**
+
+connect windscribe and start its service
+
 **Backlight.sh**
 
 change brightness level
