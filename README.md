@@ -19,3 +19,8 @@ create a pdf document from a manual page
 show a random man page
 - requres `xargs` and `xterm`
 
+**Screenshot.sh**
+
+take screenshot with `scrot` and automatically move it to a different directoy
+- requres `feh` to preview the screenshot
+
